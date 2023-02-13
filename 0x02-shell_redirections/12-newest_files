@@ -1,2 +1,2 @@
 #!/bin/bash
-find . head | uniq | sort -M
+find | head | sort -M
